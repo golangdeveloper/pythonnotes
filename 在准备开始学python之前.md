@@ -21,8 +21,11 @@ timeloveboy@timeloveboy /usr/local/Python-3.4.4$ make
 timeloveboy@timeloveboy /usr/local/Python-3.4.4$ make install
 
 建立软链接
- ln -s
+timeloveboy@timeloveboy /usr/local/Python-3.4.4$ sudo ln -s /usr/local/Python-3.4.4/python /bin/python3.4.4 
  
  退出python命令行命令
  CTRL+D
  
+现在再输入
+python3.4.4
+即可进入
