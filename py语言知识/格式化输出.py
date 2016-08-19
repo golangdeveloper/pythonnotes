@@ -14,6 +14,8 @@ print my_name,my
 
 x=round(1.7333)
 print x
+x=round(-1.7333)
+print x
 
 # Hey you there.
 # Zed A. Shaw Zed A. Shaw
