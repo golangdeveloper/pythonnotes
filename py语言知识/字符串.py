@@ -4,3 +4,8 @@
 
 s="""　为是＇＇＇[""]'''wff　"""
 print s
+
+text=' 你好,我是李 鹏 '
+print text
+t=text.strip()
+print t
