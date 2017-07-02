@@ -1,7 +1,7 @@
 from sys import argv
 script, filename = argv
 txt = open(filename)
-print txt.read()
+print ( txt.read())
 
 # close – 关闭文件。跟你编辑器的 文件 -> 保存 .. 一个意思。
 # read – 读取文件内容。你可以把结果赋给一个变量。
