@@ -1,7 +1,6 @@
-from pandas import DataFrame,Series
-
-import pandas as pd;
 import numpy as np;
+import pandas as pd;
+from pandas import DataFrame, Series
 
 records=[line for line in open("../data/m.json")]
 f=DataFrame(records)
